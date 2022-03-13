@@ -1,1 +1,1 @@
-Spring Security & KAKAO OAuth2
+Spring security & KAKAO Oauth2 
